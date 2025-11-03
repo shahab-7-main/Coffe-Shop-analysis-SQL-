@@ -12,7 +12,7 @@ It demonstrates the ability to write complex queries involving joins, window fun
 ## 🗂️ Files in This Repository
  - `queries.sql`  Contains all SQL queries (Q1–Q10) used for analysis
  - `\Dataset1` Contains the dataset
- - `dashboard.pmg` Contains screenshot of a simple power BI dashboard made by importing the data from postgreSQL
+ - `Dashboard.png` Contains screenshot of a simple power BI dashboard made by importing the data from postgreSQL
 
 ---
 
